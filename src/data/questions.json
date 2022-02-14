@@ -1,0 +1,901 @@
+[
+  {
+    "questionText": "Angela Merkel became Germany's chancellor in which year?",
+    "answerOptions": [
+      { "answerText": "22. November 2005", "isCorrect": true },
+      { "answerText": "14. November 2004", "isCorrect": false },
+      { "answerText": "22. November 2004", "isCorrect": false },
+      { "answerText": "14. November 2005", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Angela Merkel was Germany's chancellor up until which year?",
+    "answerOptions": [
+      { "answerText": "8. December 2020", "isCorrect": false },
+      { "answerText": "08. February 2022", "isCorrect": false },
+      { "answerText": "08. January 2022", "isCorrect": false },
+      { "answerText": "8. December 2021", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Who is the current President of America?",
+    "answerOptions": [
+      { "answerText": "Joe Biden", "isCorrect": true },
+      { "answerText": "Donald Trump", "isCorrect": false },
+      { "answerText": "Mary Clinton", "isCorrect": false },
+      { "answerText": "Joe Byden", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "To get a random generating numbers in JavaScript, which is the correct code?",
+    "answerOptions": [
+      { "answerText": "get().random", "isCorrect": false },
+      { "answerText": "Math.floor(Math.random()", "isCorrect": true },
+      { "answerText": "random.floor()* Math.ceil", "isCorrect": false },
+      { "answerText": "Math.carpet(Math.rug()", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "The capital of Nigeria is?",
+    "answerOptions": [
+      { "answerText": "Kano", "isCorrect": false },
+      { "answerText": "Abuja", "isCorrect": true },
+      { "answerText": "Jos", "isCorrect": false },
+      { "answerText": "Lagos", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the capital of France?",
+    "answerOptions": [
+      { "answerText": "New York", "isCorrect": false },
+      { "answerText": "London", "isCorrect": false },
+      { "answerText": "Paris", "isCorrect": true },
+      { "answerText": "Dublin", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who is CEO of Tesla?",
+    "answerOptions": [
+      { "answerText": "Jeff Bezos", "isCorrect": false },
+      { "answerText": "Elon Musk", "isCorrect": true },
+      { "answerText": "Bill Gates", "isCorrect": false },
+      { "answerText": "Tony Stark", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "The iPhone was created by which company?",
+    "answerOptions": [
+      { "answerText": "Apple", "isCorrect": true },
+      { "answerText": "Intel", "isCorrect": false },
+      { "answerText": "Amazon", "isCorrect": false },
+      { "answerText": "Microsoft", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "How many Harry Potter books are there?",
+    "answerOptions": [
+      { "answerText": "1", "isCorrect": false },
+      { "answerText": "4", "isCorrect": false },
+      { "answerText": "6", "isCorrect": false },
+      { "answerText": "7", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "President Barrack Obama became the US president in which year?",
+    "answerOptions": [
+      { "answerText": "January 20th, 2007", "isCorrect": false },
+      { "answerText": "January 20th, 2008", "isCorrect": false },
+      { "answerText": "January 20th, 2009", "isCorrect": true },
+      { "answerText": "January 20th, 2010", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the currency of Denmark?",
+    "answerOptions": [
+      { "answerText": "Dänische krella", "isCorrect": false },
+      { "answerText": "Kishi", "isCorrect": false },
+      { "answerText": "Euro", "isCorrect": false },
+      { "answerText": "Dänische Krone", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "In what year did Tony Blair become British Prime Minister?",
+    "answerOptions": [
+      { "answerText": "2008", "isCorrect": false },
+      { "answerText": "1998", "isCorrect": false },
+      { "answerText": "1997", "isCorrect": true },
+      { "answerText": "2007", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the capital of New Zealand?",
+    "answerOptions": [
+      { "answerText": "Wellington", "isCorrect": true },
+      { "answerText": "Christoph", "isCorrect": false },
+      { "answerText": "New land", "isCorrect": false },
+      { "answerText": "None of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What sport did David Beckham play?",
+    "answerOptions": [
+      { "answerText": "Volleyball", "isCorrect": false },
+      { "answerText": "Basketball", "isCorrect": false },
+      { "answerText": "Handball", "isCorrect": false },
+      { "answerText": "Football", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "How many permanent teeth does a dog have?",
+    "answerOptions": [
+      { "answerText": "62", "isCorrect": false },
+      { "answerText": "52", "isCorrect": false },
+      { "answerText": "42", "isCorrect": true },
+      { "answerText": "32", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Which country in the world is believed to have the most miles of motorway?",
+    "answerOptions": [
+      { "answerText": "Germany", "isCorrect": false },
+      { "answerText": "USA", "isCorrect": false },
+      { "answerText": "Japan", "isCorrect": false },
+      { "answerText": "China", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Which European city hosted the 1936 Summer Olympics?",
+    "answerOptions": [
+      { "answerText": "Cairo", "isCorrect": false },
+      { "answerText": "Milan", "isCorrect": false },
+      { "answerText": "Osaka", "isCorrect": false },
+      { "answerText": "Berlin", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "What is the capital of Finland?",
+    "answerOptions": [
+      { "answerText": "Eldorado", "isCorrect": false },
+      { "answerText": "Helsinki", "isCorrect": true },
+      { "answerText": "Jabello", "isCorrect": false },
+      { "answerText": "Sicily", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What language is spoken in Brazil??",
+    "answerOptions": [
+      { "answerText": "English", "isCorrect": false },
+      { "answerText": "Portuguese", "isCorrect": true },
+      { "answerText": "French", "isCorrect": false },
+      { "answerText": "Bracelleto", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Amazona", "isCorrect": false },
+      { "answerText": "Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "Idanre hill", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "How many planets are in our solar system?",
+    "answerOptions": [
+      { "answerText": "8", "isCorrect": true },
+      { "answerText": "7", "isCorrect": false },
+      { "answerText": "9", "isCorrect": false },
+      { "answerText": "6", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "How many keys are there on a piano?",
+    "answerOptions": [
+      { "answerText": "121", "isCorrect": false },
+      { "answerText": "45", "isCorrect": false },
+      { "answerText": "88", "isCorrect": true },
+      { "answerText": "29", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Glossectomy is the removal of all of or part of which body part?",
+    "answerOptions": [
+      { "answerText": "Eyes", "isCorrect": false },
+      { "answerText": "Tongue", "isCorrect": true },
+      { "answerText": "Ear", "isCorrect": false },
+      { "answerText": "Fingers", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Where is the smallest bone in the human body located?",
+    "answerOptions": [
+      { "answerText": "Jaw bone", "isCorrect": false },
+      { "answerText": "Nose", "isCorrect": false },
+      { "answerText": "Ear", "isCorrect": true },
+      { "answerText": "Mouth", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "How many hearts does an octopus have?",
+    "answerOptions": [
+      { "answerText": "3", "isCorrect": true },
+      { "answerText": "1", "isCorrect": false },
+      { "answerText": "7", "isCorrect": false },
+      { "answerText": "5", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "How many elements are in the periodic table?",
+    "answerOptions": [
+      { "answerText": "900", "isCorrect": false },
+      { "answerText": "320", "isCorrect": false },
+      { "answerText": "118", "isCorrect": true },
+      { "answerText": "65", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "With over 222 million units sold, what is Apples highest-selling iPhone model?",
+    "answerOptions": [
+      { "answerText": "Iphone x", "isCorrect": false },
+      { "answerText": "Iphone 8 plus", "isCorrect": false },
+      { "answerText": "Iphone 6", "isCorrect": true },
+      { "answerText": "Iphone 12", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "In which year was the Microsoft XP operating system released?",
+    "answerOptions": [
+      { "answerText": "1996", "isCorrect": false },
+      { "answerText": "2005", "isCorrect": false },
+      { "answerText": "2001", "isCorrect": true },
+      { "answerText": "1993", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Elon Musk is the CEO of which global brand.",
+    "answerOptions": [
+      { "answerText": "General motors", "isCorrect": false },
+      { "answerText": "samsung", "isCorrect": false },
+      { "answerText": "Apple", "isCorrect": false },
+      { "answerText": "Tesla", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Which year did the European Union first introduce the Euro as currency??",
+    "answerOptions": [
+      { "answerText": "1999", "isCorrect": true },
+      { "answerText": "1995", "isCorrect": false },
+      { "answerText": "1997", "isCorrect": false },
+      { "answerText": "2001", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Beirut is the capital of which country?",
+    "answerOptions": [
+      { "answerText": "Iraq", "isCorrect": false },
+      { "answerText": "Iran", "isCorrect": false },
+      { "answerText": "Lebanon", "isCorrect": true },
+      { "answerText": "syria", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Hanoi is the capital of which country?",
+    "answerOptions": [
+      { "answerText": "Thailand", "isCorrect": false },
+      { "answerText": "Vietnam", "isCorrect": true },
+      { "answerText": "Zimbabwe", "isCorrect": false },
+      { "answerText": "Argentina", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the capital of Argentina?",
+    "answerOptions": [
+      { "answerText": "Clit oris", "isCorrect": false },
+      { "answerText": "kaowe", "isCorrect": false },
+      { "answerText": "Everest", "isCorrect": false },
+      { "answerText": "Buenos Aries", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Slovakia's capital is?",
+    "answerOptions": [
+      { "answerText": "None of the above", "isCorrect": false },
+      { "answerText": "batval", "isCorrect": false },
+      { "answerText": "Buenos", "isCorrect": false },
+      { "answerText": "Bratislava", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "The capital of Libya is Benghazi",
+    "answerOptions": [
+      { "answerText": "False-It's Aquito", "isCorrect": false },
+      { "answerText": "True", "isCorrect": false },
+      { "answerText": "Definitely yes", "isCorrect": false },
+      { "answerText": "False", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "The Prime Minister of Great Britain has to be a sitting Member of Parliament. True or false?",
+    "answerOptions": [
+      { "answerText": "True", "isCorrect": true },
+      { "answerText": "Not necessary", "isCorrect": false },
+      { "answerText": "False", "isCorrect": false },
+      { "answerText": "None of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Netflix began as a DVD rental service. True or false?",
+    "answerOptions": [
+      { "answerText": "False", "isCorrect": false },
+      { "answerText": "Not really correct", "isCorrect": false },
+      { "answerText": "True", "isCorrect": true },
+      { "answerText": "Not really true", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "In which country would you find the original Legoland?",
+    "answerOptions": [
+      { "answerText": "USA", "isCorrect": false },
+      { "answerText": "Ghana", "isCorrect": false },
+      { "answerText": "Denmark", "isCorrect": true },
+      { "answerText": "China", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Botany is the study of what life form?",
+    "answerOptions": [
+      { "answerText": "Animals", "isCorrect": false },
+      { "answerText": "Politics", "isCorrect": false },
+      { "answerText": "Plants", "isCorrect": true },
+      { "answerText": "Mountains", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the largest animal on the planet?",
+    "answerOptions": [
+      { "answerText": "Giraffe", "isCorrect": false },
+      { "answerText": "Hippopotamus", "isCorrect": false },
+      { "answerText": "Elephant", "isCorrect": false },
+      { "answerText": "Blue whale", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Where did the Duke and Duchess of Windsor visit in 1937, later causing controversy for the royal family?",
+    "answerOptions": [
+      { "answerText": "Abuja", "isCorrect": false },
+      { "answerText": "Milan", "isCorrect": false },
+      { "answerText": "Berlin", "isCorrect": true },
+      { "answerText": "Paris", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "The Tombstone Piledriver is a finisher made famous by which iconic wrestler?",
+    "answerOptions": [
+      { "answerText": "Hulk Hogan", "isCorrect": false },
+      { "answerText": "Warrior", "isCorrect": false },
+      { "answerText": "The Undertaker", "isCorrect": true },
+      { "answerText": "Stone cold", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Holy Quran is the book of which religion?",
+    "answerOptions": [
+      { "answerText": "Christians", "isCorrect": false },
+      { "answerText": "Muslims", "isCorrect": true },
+      { "answerText": "Atheists", "isCorrect": false },
+      { "answerText": "Monks", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "If Quran is for muslims then the Holy Bible is for which religion?",
+    "answerOptions": [
+      { "answerText": "Jews", "isCorrect": false },
+      { "answerText": "Abramohic religion", "isCorrect": false },
+      { "answerText": "Christians", "isCorrect": true },
+      { "answerText": "Only catholics", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Alberta is a province of which country??",
+    "answerOptions": [
+      { "answerText": "Australia", "isCorrect": false },
+      { "answerText": "South Africa", "isCorrect": false },
+      { "answerText": "Canada", "isCorrect": true },
+      { "answerText": "Iceland", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the longest river in the world?",
+    "answerOptions": [
+      { "answerText": "South Asia river", "isCorrect": false },
+      { "answerText": "Lengthy river", "isCorrect": false },
+      { "answerText": "River Nile", "isCorrect": true },
+      { "answerText": "Pacific river", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the hottest continent on Earth?",
+    "answerOptions": [
+      { "answerText": "Asia", "isCorrect": false },
+      { "answerText": "South America", "isCorrect": false },
+      { "answerText": "Australia", "isCorrect": false },
+      { "answerText": "Africa", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": " What is the largest country in the world?",
+    "answerOptions": [
+      { "answerText": "Canada", "isCorrect": false },
+      { "answerText": "USA", "isCorrect": false },
+      { "answerText": "China", "isCorrect": false },
+      { "answerText": "Russia", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "The capital of Nigeria is?",
+    "answerOptions": [
+      { "answerText": "Lagos", "isCorrect": false },
+      { "answerText": "Jos", "isCorrect": false },
+      { "answerText": "Abuja", "isCorrect": true },
+      { "answerText": "Kano", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "The most populous Africa country is?",
+    "answerOptions": [
+      { "answerText": "Nigeria", "isCorrect": true },
+      { "answerText": "South Africa", "isCorrect": false },
+      { "answerText": "Egypt", "isCorrect": false },
+      { "answerText": "Angola", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "10) The first successful vaccine was introduced by Edward Jenner in 1796. Which disease did it guard against?",
+    "answerOptions": [
+      { "answerText": "Malaria", "isCorrect": false },
+      { "answerText": "Corona-virus", "isCorrect": false },
+      { "answerText": "Smallpox", "isCorrect": true },
+      { "answerText": "Fever", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What are the five colours of the Olympic rings?",
+    "answerOptions": [
+      { "answerText": "Blue, yellow, black, green and purple", "isCorrect": false },
+      { "answerText": "Blue, yellow, black, green and red", "isCorrect": true },
+      { "answerText": "Yellow, Navy, black, green and red", "isCorrect": false },
+      { "answerText": "Blue, gray, black, green and red", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "How many players are there in a rugby league team?",
+    "answerOptions": [
+      { "answerText": "10", "isCorrect": false },
+      { "answerText": "20", "isCorrect": false },
+      { "answerText": "23", "isCorrect": false },
+      { "answerText": "13", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Who won the FIFA Women's World Cup in 2019?",
+    "answerOptions": [
+      { "answerText": "Germany", "isCorrect": false },
+      { "answerText": "Italy", "isCorrect": false },
+      { "answerText": "USA", "isCorrect": true },
+      { "answerText": "Nigeria", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Which Country won the olympics 1996 football in Atlanta?",
+    "answerOptions": [
+      { "answerText": "Nigeria", "isCorrect": true },
+      { "answerText": "Germany", "isCorrect": false },
+      { "answerText": "Brazil", "isCorrect": false },
+      { "answerText": "Argentina", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Which word does NOT belong with the others?",
+    "answerOptions": [
+      { "answerText": "Index", "isCorrect": false },
+      { "answerText": "Glossary", "isCorrect": false },
+      { "answerText": "Book", "isCorrect": true },
+      { "answerText": "Chapter", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Which word does NOT belong with the others?",
+    "answerOptions": [
+      { "answerText": "Wing", "isCorrect": false },
+      { "answerText": "Fin", "isCorrect": false },
+      { "answerText": "Break", "isCorrect": true },
+      { "answerText": "Rudder", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "There is a room with no doors, and no windows. A man is found hung from the ceiling. A puddle of water is on the floor. How did he die?",
+    "answerOptions": [
+      { "answerText": "He was standing on a block of ice", "isCorrect": true },
+      { "answerText": "He jumped", "isCorrect": false },
+      { "answerText": "He was a very tall person", "isCorrect": false },
+      { "answerText": "Not possible", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "A boy and a doctor were fishing. The boy is the doctor's son, but the doctor isn't the boy's father. Who is the doctor?",
+    "answerOptions": [
+      { "answerText": "Grand father", "isCorrect": false },
+      { "answerText": "Step father", "isCorrect": false },
+      { "answerText": "Mother", "isCorrect": true },
+      { "answerText": "Step mother", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Rearrange the following letters so as to form one word: NEW DOOR.",
+    "answerOptions": [
+      { "answerText": "RODE NEW", "isCorrect": false },
+      { "answerText": "NEO WROD", "isCorrect": false },
+      { "answerText": "NEE DREW", "isCorrect": false },
+      { "answerText": "ONE WORD", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "What is the only question you can't answer with a yes?",
+    "answerOptions": [
+      { "answerText": "Are you ok", "isCorrect": false },
+      { "answerText": "Are you rich ", "isCorrect": false },
+      { "answerText": "Are you dead", "isCorrect": true },
+      { "answerText": "Are you broke", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What common English verb becomes its own past tense by rearranging its letters?",
+    "answerOptions": [
+      { "answerText": "Eat", "isCorrect": true },
+      { "answerText": "Late", "isCorrect": false },
+      { "answerText": "Wait", "isCorrect": false },
+      { "answerText": "Fit", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Tanya is older than Eric. Cliff is older than Tanya. Eric is older than Cliff.If the first two statements are true, the third statement is?",
+    "answerOptions": [
+      { "answerText": "True", "isCorrect": false },
+      { "answerText": "False", "isCorrect": true },
+      { "answerText": "Uncertain", "isCorrect": false },
+      { "answerText": "Correct", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": " What are two things you can never eat for breakfast?",
+    "answerOptions": [
+      { "answerText": "Breakfast", "isCorrect": false },
+      { "answerText": "Bread and butter", "isCorrect": false },
+      { "answerText": "Lunch and Dinner", "isCorrect": true },
+      { "answerText": "Fufu and soup", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is always coming but never arrives? ",
+    "answerOptions": [
+      { "answerText": "You", "isCorrect": false },
+      { "answerText": "Water", "isCorrect": false },
+      { "answerText": "Tomorrow", "isCorrect": true },
+      { "answerText": "nothing", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What gets wetter the more it dries? ",
+    "answerOptions": [
+      { "answerText": "A towel", "isCorrect": true },
+      { "answerText": "Weather", "isCorrect": false },
+      { "answerText": "Sun", "isCorrect": false },
+      { "answerText": "none of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What can be broken but never held? ",
+    "answerOptions": [
+      { "answerText": "A table", "isCorrect": false },
+      { "answerText": "A promise", "isCorrect": true },
+      { "answerText": "Words", "isCorrect": false },
+      { "answerText": "Chair", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What word is spelled incorrectly in every single dictionary?",
+    "answerOptions": [
+      { "answerText": "Incorrectly", "isCorrect": true },
+      { "answerText": "Dictionary", "isCorrect": false },
+      { "answerText": "House", "isCorrect": false },
+      { "answerText": "cellphones", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is it that lives if it is fed, and dies if you give it a drink?",
+    "answerOptions": [
+      { "answerText": "Animals", "isCorrect": false },
+      { "answerText": "Fire", "isCorrect": true },
+      { "answerText": "Plants", "isCorrect": false },
+      { "answerText": "Human", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What never asks a question but gets answered all the time?",
+    "answerOptions": [
+      { "answerText": "nothing", "isCorrect": false },
+      { "answerText": "Radio", "isCorrect": false },
+      { "answerText": "Cellphones", "isCorrect": true },
+      { "answerText": "no idea", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What goes up but never ever comes down?",
+    "answerOptions": [
+      { "answerText": "Numbers", "isCorrect": false },
+      { "answerText": "Alphabets", "isCorrect": false },
+      { "answerText": "Age", "isCorrect": true },
+      { "answerText": "none of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What can one catch that is not thrown?",
+    "answerOptions": [
+      { "answerText": "Ball", "isCorrect": false },
+      { "answerText": "Cold", "isCorrect": true },
+      { "answerText": "Books", "isCorrect": false },
+      { "answerText": "no idea", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Amazona", "isCorrect": false },
+      { "answerText": "Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "Idanre hill", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Amazona", "isCorrect": false },
+      { "answerText": "Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "Idanre hill", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Amazona", "isCorrect": false },
+      { "answerText": "Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "Idanre hill", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Amazona", "isCorrect": false },
+      { "answerText": "Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "Idanre hill", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Amazona", "isCorrect": false },
+      { "answerText": "Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "Idanre hill", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Amazona", "isCorrect": false },
+      { "answerText": "Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "Idanre hill", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Amazona", "isCorrect": false },
+      { "answerText": "Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "Idanre hill", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Amazona", "isCorrect": false },
+      { "answerText": "Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "Idanre hill", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Amazona", "isCorrect": false },
+      { "answerText": "Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "Idanre hill", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Amazona", "isCorrect": false },
+      { "answerText": "Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "Idanre hill", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Amazona", "isCorrect": false },
+      { "answerText": "Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "Idanre hill", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Amazona", "isCorrect": false },
+      { "answerText": "Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "Idanre hill", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Amazona", "isCorrect": false },
+      { "answerText": "Kilimanjaro", "isCorrect": false },
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "Idanre hill", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Trapeze has 4 angles, how many have Parallelogram?",
+    "answerOptions": [
+      { "answerText": "4", "isCorrect": true },
+      { "answerText": "5", "isCorrect": false },
+      { "answerText": "6", "isCorrect": false },
+      { "answerText": "7", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "How many angles have a pentagon?",
+    "answerOptions": [
+      { "answerText": "6", "isCorrect": false },
+      { "answerText": "7", "isCorrect": false },
+      { "answerText": "8", "isCorrect": false },
+      { "answerText": "5", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "The richest man in Africa is?",
+    "answerOptions": [
+      { "answerText": "Remi Shonaiya", "isCorrect": false },
+      { "answerText": "Femi Otedola", "isCorrect": false },
+      { "answerText": "Aliko Dangote", "isCorrect": true },
+      { "answerText": "Chinwe Dike", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "which of these words is the longest",
+    "answerOptions": [
+      { "answerText": "long", "isCorrect": false },
+      { "answerText": "far", "isCorrect": false },
+      { "answerText": "longest", "isCorrect": false },
+      { "answerText": "shortest", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "3 + 3 x 3 - 3 + 3 = ?",
+    "answerOptions": [
+      { "answerText": "18", "isCorrect": true },
+      { "answerText": "23", "isCorrect": false },
+      { "answerText": "15", "isCorrect": false },
+      { "answerText": "33", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Using only an addition, how do you add eight 8's and get the number 1000?",
+    "answerOptions": [
+      { "answerText": "888 + 88 + 80 + 18 + 08 = 1000", "isCorrect": false },
+      { "answerText": "888 + 88 + 88 + 8 + 8 = 1000", "isCorrect": false },
+      { "answerText": "888 + 88 + 8 + 8 + 8 = 1000", "isCorrect": true },
+      { "answerText": "88 + 88 + 88 + 88 + 88 = 1000", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "f 1=3, 2=3, 3=5, 4=4, 5=4 Then, 6=?",
+    "answerOptions": [
+      { "answerText": "4", "isCorrect": false },
+      { "answerText": "0", "isCorrect": false },
+      { "answerText": "is 2, because 2 slices 6 in 3 places", "isCorrect": false },
+      { "answerText": "is 3, because \"six\" has three letters", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Which singer was known amongst other things as \"The King of Pop\"?",
+    "answerOptions": [
+      { "answerText": "Celine Dion", "isCorrect": false },
+      { "answerText": "Michael Jackson", "isCorrect": true },
+      { "answerText": "Princess Diana", "isCorrect": false },
+      { "answerText": "The Prince", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Wayne Rooney scored his Premier League first goal against which team?",
+    "answerOptions": [
+      { "answerText": "Chelsea", "isCorrect": false },
+      { "answerText": "Bayern-Munich", "isCorrect": false },
+      { "answerText": "Arsenal", "isCorrect": true },
+      { "answerText": "Dortmund", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Who scored the first Premier League hat-trick??",
+    "answerOptions": [
+      { "answerText": "Cristiano Ronaldo", "isCorrect": false },
+      { "answerText": "Carlos Santana", "isCorrect": false },
+      { "answerText": "Eric Cantona", "isCorrect": true },
+      { "answerText": "Etoo Fils", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "President Putin is a president of which country?",
+    "answerOptions": [
+      { "answerText": "Ukraine", "isCorrect": false },
+      { "answerText": "Russia", "isCorrect": true },
+      { "answerText": "Poland", "isCorrect": false },
+      { "answerText": "Bulgaria", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "As stated in the Bible, the first Man and Woman God created were?",
+    "answerOptions": [
+      { "answerText": "Bill and Juliet", "isCorrect": false },
+      { "answerText": "Clarence and Clara", "isCorrect": false },
+      { "answerText": "Adam and Even", "isCorrect": true },
+      { "answerText": "Paul and Peter", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "As stated in the Bible in the book of Genesis chapter 1, the first command of God was?",
+    "answerOptions": [
+      { "answerText": "Let there be Heaven and Earth", "isCorrect": false },
+      { "answerText": "Let there be Man", "isCorrect": false },
+      { "answerText": "Let there be water", "isCorrect": false },
+      { "answerText": "Let there be light", "isCorrect": true }
+    ]
+  }, {
+    "questionText": "As stated in the Bible Genesis 1:1, in the beginning God created what and what?",
+    "answerOptions": [
+      { "answerText": "Plants and Animals", "isCorrect": false },
+      { "answerText": "Man and Woman", "isCorrect": false },
+      { "answerText": "Heaven and Earth", "isCorrect": true },
+      { "answerText": "None of the Above", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Chris Brown is a popular American singer while Davido is a popular singer of which country?",
+    "answerOptions": [
+      { "answerText": "UK", "isCorrect": false },
+      { "answerText": "Ghana", "isCorrect": false },
+      { "answerText": "Nigeria", "isCorrect": true },
+      { "answerText": "Sweden", "isCorrect": false }
+    ]
+  }
+]

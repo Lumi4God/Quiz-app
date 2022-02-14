@@ -1,0 +1,260 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+* {
+  font-family: "Verdana", cursive, sans-serif;
+  color: #ffffff;
+}
+
+body {
+  /* background-color: #7cc6fe; */
+  background-image: url("./images/pic3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: -50px 80px 0 0;
+}
+
+.app {
+  background-color: #252d4a;
+  width: 630px; /*450px*/
+  min-height: 250px;
+  height: min-content;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.75);
+  display: flex;
+  justify-content: space-evenly;
+  border: 2px solid #fff;
+  /* overflow: hidden; */
+}
+/* .app2::before{
+  content: "";
+  background-image: conic-gradient(
+      #04b0ee 20deg,
+      transparent 120deg
+  );
+  height: 150%;
+  width: 150%;
+  z-index: -1;
+  position: absolute;
+  left: -25%;
+  top: -25%;
+  animation: animate 2s infinite linear;
+}
+@keyframes animate {
+  0%{
+      transform: rotate(0deg);
+  }
+  100%{
+      transform: rotate(-360deg);
+  }
+} */ 
+/* .app::after{
+  content: '';
+  height: 94%;
+  width: 94%;
+  position: absolute;
+  border-radius: 5px;
+ /*  top: 3%;
+  left: 3%; 
+} */
+
+.score-section {
+  display: flex;
+  font-size: 24px;
+  align-items: center;
+}
+
+/* QUESTION/TIMER/LEFT SECTION */
+.question-section {
+  width: 100%;
+  position: relative;
+}
+
+.question-count {
+  margin-bottom: 20px;
+}
+
+.question-count span {
+  font-size: 28px;
+}
+
+.question-text {
+  margin-bottom: 12px;
+}
+
+.timer-text {
+  background: rgb(230, 153, 12);
+  padding: 15px;
+  margin-top: 20px;
+  margin-right: 20px;
+  border: 5px solid rgb(255, 189, 67);
+  border-radius: 15px;
+  text-align: center;
+}
+
+.header1{
+  color: #2f922f;
+  text-align: center;
+}
+.header2{
+  color: #ff3333;
+  text-align: center;
+}
+
+/* ANSWERS/RIGHT SECTION */
+.answer-section {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.btn1 {
+  width: 50%;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #252d4a;
+  border-radius: 15px;
+  padding: 5px;
+  margin-left: 25%;
+  border: 5px solid #234668;
+  cursor: pointer;
+}
+.btn2 {
+  width: 50%;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #252d4a;
+  border-radius: 15px;
+  padding: 5px;
+  margin-left: 25%;
+  border: 5px solid #234668;
+  cursor: pointer;
+}
+.btn3 {
+  width: 100%;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #252d4a;
+  border-radius: 15px;
+  /* display: flex; */
+  padding: 5px;
+  /* justify-content: flex-start;
+  align-items: center; */
+  border: 5px solid #234668;
+  cursor: pointer;
+}
+
+.correct {
+  background-color: #2f922f;
+}
+
+.incorrect {
+  background-color: #ff3333;
+}
+
+button:hover {
+  background-color: #555e7d;
+}
+
+button:focus {
+  outline: none;
+}
+
+button svg {
+  margin-right: 5px;
+}
+
+/*footer*/
+footer{
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  height: 25px;
+  font-size: 20px;
+  color: whitesmoke;
+  background: black;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: rgb(241, 86, 66);
+}
+i{
+  margin-left: 10px;
+}
+.fa-linkedin{
+  color: rgb(90, 90, 245);
+}
+.fa-github{
+  color: white;
+}
+.fa-instagram{
+  color: rgb(229, 147, 161);
+}
+.fa-youtube{
+  color: red;
+}
+.fa-spotify{
+  color: chartreuse;
+}
+.fa-tiktok{
+  color: cadetblue;
+}
+
+/*game*/
+/* .myLogo{
+  position: absolute;
+  top: 20px;
+  left: 10px;
+}
+.myLogo img{
+  width: 90px;
+  height: 50px;
+} */
+
+
+/*Header and About section*/
+.success{
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.text-center{
+  text-align: center;
+}
+.text-center h2{
+  font-size: 38px;
+  font-family: 'Bungee Shade', cursive;
+}
+.col p{
+  margin: 10px 70px 0 70px;
+}
+.col4 p{
+  margin: 10px 70px 0 70px;
+}
+.btn-outline{
+  color: #88df25;
+  font-weight: 700;
+  /* text-align: center; */
+}
+.fa-code-fork{
+  color: #fff;
+  margin: 10px;
+}
+
+/*radio-buttons*/
+label{
+  color: #f7f6f5;
+  font-weight: 600;
+}

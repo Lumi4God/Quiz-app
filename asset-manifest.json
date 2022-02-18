@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Quiz-app/static/css/main.bf6bbafa.css",
+    "main.js": "/Quiz-app/static/js/main.6b43cef8.js",
+    "static/js/845.ae191ddd.chunk.js": "/Quiz-app/static/js/845.ae191ddd.chunk.js",
+    "static/js/787.44458aef.chunk.js": "/Quiz-app/static/js/787.44458aef.chunk.js",
+    "static/media/oh-no.wav": "/Quiz-app/static/media/oh-no.f2f7cedf304ca95f2a63.wav",
+    "static/media/clap.mp3": "/Quiz-app/static/media/clap.57201734764f2f6ea5a8.mp3",
+    "static/media/questmark1.png": "/Quiz-app/static/media/questmark1.c531c4f32654af01f7ca.png",
+    "static/media/congratulations.mp3": "/Quiz-app/static/media/congratulations.68c596f4d327b1d14d11.mp3",
+    "static/media/pic3.jpg": "/Quiz-app/static/media/pic3.3d93714c28e4af47d8eb.jpg",
+    "static/media/click.wav": "/Quiz-app/static/media/click.ae2de8e7e136703f3626.wav",
+    "static/media/game-end.mp3": "/Quiz-app/static/media/game-end.613c1efa9a14b6d9d6b6.mp3",
+    "index.html": "/Quiz-app/index.html",
+    "main.bf6bbafa.css.map": "/Quiz-app/static/css/main.bf6bbafa.css.map",
+    "main.6b43cef8.js.map": "/Quiz-app/static/js/main.6b43cef8.js.map",
+    "845.ae191ddd.chunk.js.map": "/Quiz-app/static/js/845.ae191ddd.chunk.js.map",
+    "787.44458aef.chunk.js.map": "/Quiz-app/static/js/787.44458aef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf6bbafa.css",
+    "static/js/main.6b43cef8.js"
+  ]
+}

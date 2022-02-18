@@ -13,7 +13,8 @@ import getRandomQuestions from "./tools/questions";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 
-const questions = getRandomQuestions(10)
+const questions = getRandomQuestions(10) /**/
+
 export default function App() {
   /* useEffect(() => {
     window.addEventListener("onload", () => { 

@@ -254,7 +254,23 @@ i{
 }
 
 /*radio-buttons*/
+.divRadio{
+  position: absolute;
+  top: 250px;
+}
 label{
   color: #f7f6f5;
   font-weight: 600;
+}
+
+/*pic*/
+aside{
+  position: absolute;
+  top: 10px;
+}
+.pic{
+  width: 150px;
+  height: 100px;
+  object-fit: contain;
+  margin: 10px 0 0 50px;
 }

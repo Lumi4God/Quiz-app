@@ -819,7 +819,7 @@
     ]
   },
   {
-    "questionText": "f 1=3, 2=3, 3=5, 4=4, 5=4 Then, 6=?",
+    "questionText": "if 1=3, 2=3, 3=5, 4=4, 5=4 Then, 6=?",
     "answerOptions": [
       { "answerText": "4", "isCorrect": false },
       { "answerText": "0", "isCorrect": false },

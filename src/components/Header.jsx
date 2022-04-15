@@ -23,12 +23,12 @@ const Header = () => {
                     <strong style={{ textDecoration: 'underline' }}>
                       comical way
                     </strong>
-                    . components (AKA componentization) and flow data accross them.
+                    {/* . components (AKA componentization) and flow data accross them. */}
                   </p>
                 </div>
                 <div className="col4">
                   <p>
-                    <strong>HOW TO PLAY?, </strong> easy, straight forward and uncomplicated. when you are <strong>READY,</strong>  click on one of the radio buttons below and it will randomly select the maximum questions for each button and start answering them.
+                    <strong>HOW TO PLAY?, </strong> easy, straight forward and uncomplicated. when you are <strong>READY,</strong>  click on one of the {/*radio */} buttons below and {/* it will randomly select the maximum questions for each button and */} start answering questions.
                   </p>
                 </div>
                 <div className="col-lg-8 col-lg-offset-2 text-center">
@@ -42,7 +42,7 @@ const Header = () => {
                   </a>
                 </div>
               </div>
-              <hr className="star-light" />
+              {/* <hr className="star-light" /> */}
 
               {/*radio-buttons, questions option*/}
               {/* {<QuestionCount

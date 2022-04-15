@@ -868,7 +868,7 @@
     "answerOptions": [
       { "answerText": "Bill and Juliet", "isCorrect": false },
       { "answerText": "Clarence and Clara", "isCorrect": false },
-      { "answerText": "Adam and Even", "isCorrect": true },
+      { "answerText": "Adam and Eve", "isCorrect": true },
       { "answerText": "Paul and Peter", "isCorrect": false }
     ]
   },

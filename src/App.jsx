@@ -114,7 +114,7 @@ export default function App() {
                 onClick={() => handleAnswerOptionClick(answerOption.isCorrect)}
               >
                 {answerOption.answerText} {playX()}
-                {/*calling the useSound here*/}{" "}
+                {/*calling the useSound here.*/}{" "}
               </button>
             ))}
           </div>
